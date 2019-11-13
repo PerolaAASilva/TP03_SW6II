@@ -1,0 +1,9 @@
+C:\Users\Perola\Desktop\Aula08WebAPI\Aula8WebAPI.Model\bin\Debug\netcoreapp2.2\Aula8WebAPI.Model.deps.json
+C:\Users\Perola\Desktop\Aula08WebAPI\Aula8WebAPI.Model\bin\Debug\netcoreapp2.2\Aula8WebAPI.Model.dll
+C:\Users\Perola\Desktop\Aula08WebAPI\Aula8WebAPI.Model\bin\Debug\netcoreapp2.2\Aula8WebAPI.Model.pdb
+C:\Users\Perola\Desktop\Aula08WebAPI\Aula8WebAPI.Model\obj\Debug\netcoreapp2.2\Aula8WebAPI.Model.csprojAssemblyReference.cache
+C:\Users\Perola\Desktop\Aula08WebAPI\Aula8WebAPI.Model\obj\Debug\netcoreapp2.2\Aula8WebAPI.Model.csproj.CoreCompileInputs.cache
+C:\Users\Perola\Desktop\Aula08WebAPI\Aula8WebAPI.Model\obj\Debug\netcoreapp2.2\Aula8WebAPI.Model.AssemblyInfoInputs.cache
+C:\Users\Perola\Desktop\Aula08WebAPI\Aula8WebAPI.Model\obj\Debug\netcoreapp2.2\Aula8WebAPI.Model.AssemblyInfo.cs
+C:\Users\Perola\Desktop\Aula08WebAPI\Aula8WebAPI.Model\obj\Debug\netcoreapp2.2\Aula8WebAPI.Model.dll
+C:\Users\Perola\Desktop\Aula08WebAPI\Aula8WebAPI.Model\obj\Debug\netcoreapp2.2\Aula8WebAPI.Model.pdb

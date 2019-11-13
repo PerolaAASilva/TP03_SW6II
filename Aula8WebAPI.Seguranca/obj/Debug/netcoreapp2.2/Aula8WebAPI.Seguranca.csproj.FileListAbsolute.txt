@@ -1,0 +1,9 @@
+C:\Users\Perola\Desktop\Aula08WebAPI\Aula8WebAPI.Seguranca\bin\Debug\netcoreapp2.2\Aula8WebAPI.Seguranca.deps.json
+C:\Users\Perola\Desktop\Aula08WebAPI\Aula8WebAPI.Seguranca\bin\Debug\netcoreapp2.2\Aula8WebAPI.Seguranca.dll
+C:\Users\Perola\Desktop\Aula08WebAPI\Aula8WebAPI.Seguranca\bin\Debug\netcoreapp2.2\Aula8WebAPI.Seguranca.pdb
+C:\Users\Perola\Desktop\Aula08WebAPI\Aula8WebAPI.Seguranca\obj\Debug\netcoreapp2.2\Aula8WebAPI.Seguranca.csprojAssemblyReference.cache
+C:\Users\Perola\Desktop\Aula08WebAPI\Aula8WebAPI.Seguranca\obj\Debug\netcoreapp2.2\Aula8WebAPI.Seguranca.csproj.CoreCompileInputs.cache
+C:\Users\Perola\Desktop\Aula08WebAPI\Aula8WebAPI.Seguranca\obj\Debug\netcoreapp2.2\Aula8WebAPI.Seguranca.AssemblyInfoInputs.cache
+C:\Users\Perola\Desktop\Aula08WebAPI\Aula8WebAPI.Seguranca\obj\Debug\netcoreapp2.2\Aula8WebAPI.Seguranca.AssemblyInfo.cs
+C:\Users\Perola\Desktop\Aula08WebAPI\Aula8WebAPI.Seguranca\obj\Debug\netcoreapp2.2\Aula8WebAPI.Seguranca.dll
+C:\Users\Perola\Desktop\Aula08WebAPI\Aula8WebAPI.Seguranca\obj\Debug\netcoreapp2.2\Aula8WebAPI.Seguranca.pdb

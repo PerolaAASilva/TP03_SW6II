@@ -1,0 +1,12 @@
+C:\Users\Perola\Desktop\Aula08WebAPI\Aula8WebAPI.DAL.Livros\bin\Debug\netcoreapp2.2\Aula8WebAPI.DAL.Livros.deps.json
+C:\Users\Perola\Desktop\Aula08WebAPI\Aula8WebAPI.DAL.Livros\bin\Debug\netcoreapp2.2\Aula8WebAPI.DAL.Livros.dll
+C:\Users\Perola\Desktop\Aula08WebAPI\Aula8WebAPI.DAL.Livros\bin\Debug\netcoreapp2.2\Aula8WebAPI.DAL.Livros.pdb
+C:\Users\Perola\Desktop\Aula08WebAPI\Aula8WebAPI.DAL.Livros\bin\Debug\netcoreapp2.2\Aula8WebAPI.Model.dll
+C:\Users\Perola\Desktop\Aula08WebAPI\Aula8WebAPI.DAL.Livros\bin\Debug\netcoreapp2.2\Aula8WebAPI.Model.pdb
+C:\Users\Perola\Desktop\Aula08WebAPI\Aula8WebAPI.DAL.Livros\obj\Debug\netcoreapp2.2\Aula8WebAPI.DAL.Livros.csprojAssemblyReference.cache
+C:\Users\Perola\Desktop\Aula08WebAPI\Aula8WebAPI.DAL.Livros\obj\Debug\netcoreapp2.2\Aula8WebAPI.DAL.Livros.csproj.CoreCompileInputs.cache
+C:\Users\Perola\Desktop\Aula08WebAPI\Aula8WebAPI.DAL.Livros\obj\Debug\netcoreapp2.2\Aula8WebAPI.DAL.Livros.AssemblyInfoInputs.cache
+C:\Users\Perola\Desktop\Aula08WebAPI\Aula8WebAPI.DAL.Livros\obj\Debug\netcoreapp2.2\Aula8WebAPI.DAL.Livros.AssemblyInfo.cs
+C:\Users\Perola\Desktop\Aula08WebAPI\Aula8WebAPI.DAL.Livros\obj\Debug\netcoreapp2.2\Aula8WebAPI.DAL.Livros.csproj.CopyComplete
+C:\Users\Perola\Desktop\Aula08WebAPI\Aula8WebAPI.DAL.Livros\obj\Debug\netcoreapp2.2\Aula8WebAPI.DAL.Livros.dll
+C:\Users\Perola\Desktop\Aula08WebAPI\Aula8WebAPI.DAL.Livros\obj\Debug\netcoreapp2.2\Aula8WebAPI.DAL.Livros.pdb

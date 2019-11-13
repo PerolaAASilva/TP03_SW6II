@@ -1,0 +1,8 @@
+C:\Users\Perola\Desktop\Aula08WebAPI\Aula8WebAPI.DAL.Usuarios\bin\Debug\netcoreapp2.2\Aula8WebAPI.DAL.Usuarios.deps.json
+C:\Users\Perola\Desktop\Aula08WebAPI\Aula8WebAPI.DAL.Usuarios\bin\Debug\netcoreapp2.2\Aula8WebAPI.DAL.Usuarios.dll
+C:\Users\Perola\Desktop\Aula08WebAPI\Aula8WebAPI.DAL.Usuarios\bin\Debug\netcoreapp2.2\Aula8WebAPI.DAL.Usuarios.pdb
+C:\Users\Perola\Desktop\Aula08WebAPI\Aula8WebAPI.DAL.Usuarios\obj\Debug\netcoreapp2.2\Aula8WebAPI.DAL.Usuarios.csproj.CoreCompileInputs.cache
+C:\Users\Perola\Desktop\Aula08WebAPI\Aula8WebAPI.DAL.Usuarios\obj\Debug\netcoreapp2.2\Aula8WebAPI.DAL.Usuarios.AssemblyInfoInputs.cache
+C:\Users\Perola\Desktop\Aula08WebAPI\Aula8WebAPI.DAL.Usuarios\obj\Debug\netcoreapp2.2\Aula8WebAPI.DAL.Usuarios.AssemblyInfo.cs
+C:\Users\Perola\Desktop\Aula08WebAPI\Aula8WebAPI.DAL.Usuarios\obj\Debug\netcoreapp2.2\Aula8WebAPI.DAL.Usuarios.dll
+C:\Users\Perola\Desktop\Aula08WebAPI\Aula8WebAPI.DAL.Usuarios\obj\Debug\netcoreapp2.2\Aula8WebAPI.DAL.Usuarios.pdb
